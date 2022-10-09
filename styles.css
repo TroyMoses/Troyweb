@@ -107,7 +107,7 @@ div.a{
   width: 90px;
   padding: 0px;
   float:left;
-  margin-right: 20px;
+  margin-right: 50px;
   margin-left: 200px;
   display: block;
   background-color: pink;
@@ -120,7 +120,7 @@ div.ab{
   width: 90px;
   padding: 0px;
   float: left;
-  margin-right: 20px;
+  margin-right: 50px;
   display: block;
   background-color: pink;
 }
@@ -132,7 +132,7 @@ div.b{
   width: 175px;
   padding: 0px;
   float:left;
-  margin-right: 20px;
+  margin-right: 50px;
   display: block;
   background-color: pink;
 }
@@ -144,7 +144,7 @@ div.c{
   width: 115px;
   padding: 0px;
   float: left;
-  margin-right: 20px;
+  margin-right: 50px;
   display: block;
   background-color: pink;
 }
