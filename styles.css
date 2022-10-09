@@ -172,6 +172,7 @@ div.c{
 }
 
 .imghm{
+  float: left;
   height: 300px;
   width: 600px;
   margin-top: 15px;
